@@ -12,6 +12,8 @@
 [s3 bucket with lambda function](https://imgloader.s3.us-west-2.amazonaws.com/image.json)
 ![lambda](https://user-images.githubusercontent.com/84699682/163071527-fec5f8f9-12ae-4a24-8754-3f38bcfeb6af.JPG)
 
+## CAPS with SNS & SQS
+
 ## AWS GateWay / Lambda / DynamoDB
 [API GateWay](https://uj60dllyc9.execute-api.us-west-2.amazonaws.com/Production/people)
   ### Features:
